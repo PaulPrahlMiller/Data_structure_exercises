@@ -1,0 +1,235 @@
+
+Two Stack Queue
+Input size: 10
+Runtime: 0,087100 ms
+Input size: 100
+Runtime: 3,109100 ms
+Input size: 1000
+Runtime: 40,997600 ms
+Input size: 10000
+Runtime: 913,454600 ms
+--------------
+Error handling
+--------------
+Overflow error: The queue is full
+Underflow error: The queue is empty
+
+One Stack Queue
+Input size: 10
+Runtime: 0,027900 ms
+Input size: 100
+Runtime: 0,797600 ms
+Input size: 1000
+Runtime: 13,626900 ms
+Input size: 10000
+Runtime: 680,803200 ms
+Overflow Error: The queue is full
+Underflow Error: The queue is empty
+
+Two Queue Stack
+Input size: 10
+Runtime: 0,071600 ms
+Input size: 100
+Runtime: 2,027200 ms
+Input size: 1000
+Runtime: 32,122000 ms
+Input size: 10000
+Runtime: 916,742100 ms
+--------------
+Error handling
+--------------
+Overflow error: The stack is full
+Underflow error: The stack is empty
+
+One Queue Stack
+Input size: 10
+Runtime: 0,035400 ms
+Input size: 100
+Runtime: 1,650400 ms
+Input size: 1000
+Runtime: 34,485700 ms
+Input size: 10000
+Runtime: 762,255300 ms
+--------------
+Error handling
+--------------
+Overflow error: The stack is full
+Underflow Error: The stack is empty
+Task 4
+====================================
+Data Structure: ArrayList
+Total Players: 10
+Passes: 1
+--------------------------------------------
+
+0.0099
+--------------------------------------------
+Average Runtime: 0,009900
+--------------------------------------------
+Data Structure: ArrayListIterator
+Total Players: 10
+Passes: 1
+--------------------------------------------
+
+0.0168
+--------------------------------------------
+Average Runtime: 0,016800
+--------------------------------------------
+Data Structure: LinkedList
+Total Players: 10
+Passes: 1
+--------------------------------------------
+
+0.0168
+--------------------------------------------
+Average Runtime: 0,016800
+--------------------------------------------
+Data Structure: LinkedListIterator
+Total Players: 10
+Passes: 1
+--------------------------------------------
+
+0.0485
+--------------------------------------------
+Average Runtime: 0,048500
+--------------------------------------------
+Data Structure: ArrayList
+Total Players: 100
+Passes: 1
+--------------------------------------------
+
+0.0032
+--------------------------------------------
+Average Runtime: 0,003200
+--------------------------------------------
+Data Structure: ArrayListIterator
+Total Players: 100
+Passes: 1
+--------------------------------------------
+
+0.0044
+--------------------------------------------
+Average Runtime: 0,004400
+--------------------------------------------
+Data Structure: LinkedList
+Total Players: 100
+Passes: 1
+--------------------------------------------
+
+0.0044
+--------------------------------------------
+Average Runtime: 0,004400
+--------------------------------------------
+Data Structure: LinkedListIterator
+Total Players: 100
+Passes: 1
+--------------------------------------------
+
+0.9357
+--------------------------------------------
+Average Runtime: 0,935700
+--------------------------------------------
+Data Structure: ArrayList
+Total Players: 1000
+Passes: 1
+--------------------------------------------
+
+0.0031
+--------------------------------------------
+Average Runtime: 0,003100
+--------------------------------------------
+Data Structure: ArrayListIterator
+Total Players: 1000
+Passes: 1
+--------------------------------------------
+
+0.0052
+--------------------------------------------
+Average Runtime: 0,005200
+--------------------------------------------
+Data Structure: LinkedList
+Total Players: 1000
+Passes: 1
+--------------------------------------------
+
+0.0052
+--------------------------------------------
+Average Runtime: 0,005200
+--------------------------------------------
+Data Structure: LinkedListIterator
+Total Players: 1000
+Passes: 1
+--------------------------------------------
+
+18.4386
+--------------------------------------------
+Average Runtime: 18,438600
+--------------------------------------------
+Data Structure: ArrayList
+Total Players: 10000
+Passes: 1
+--------------------------------------------
+
+0.008
+--------------------------------------------
+Average Runtime: 0,008000
+--------------------------------------------
+Data Structure: ArrayListIterator
+Total Players: 10000
+Passes: 1
+--------------------------------------------
+
+0.0093
+--------------------------------------------
+Average Runtime: 0,009300
+--------------------------------------------
+Data Structure: LinkedList
+Total Players: 10000
+Passes: 1
+--------------------------------------------
+
+0.0093
+--------------------------------------------
+Average Runtime: 0,009300
+--------------------------------------------
+Data Structure: LinkedListIterator
+Total Players: 10000
+Passes: 1
+--------------------------------------------
+
+268.6402
+--------------------------------------------
+Average Runtime: 268,640200
+--------------------------------------------
+Data Structure: ArrayList
+Total Players: 100000
+Passes: 1
+--------------------------------------------
+
+0.0543
+--------------------------------------------
+Average Runtime: 0,054300
+--------------------------------------------
+Data Structure: ArrayListIterator
+Total Players: 100000
+Passes: 1
+--------------------------------------------
+
+0.0507
+--------------------------------------------
+Average Runtime: 0,050700
+--------------------------------------------
+Data Structure: LinkedList
+Total Players: 100000
+Passes: 1
+--------------------------------------------
+
+0.0507
+--------------------------------------------
+Average Runtime: 0,050700
+--------------------------------------------
+Data Structure: LinkedListIterator
+Total Players: 100000
+Passes: 1
+--------------------------------------------
+
